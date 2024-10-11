@@ -9,7 +9,7 @@ enter the following directory and run this command
 
 this will start the app
 
-urls.py : calls the function in views.py file upon hitting the url like in this case http://127.0.0.1:8000/all_emp/ it calls all_emp function in views.py
+urls.py : calls the function in views.py file upon hitting the url like in this case "http://127.0.0.1:8000/all_emp/" it calls all_emp function in views.py
 views.py : it manages and manipulate the B-tree, in project2.py file, views.py also serialize and deserialize the data
 tree.txt : it stores the data in the form of text, data is serialized into and deserialize from it using views.py
 project2.py : it contains the b-tree, backbone of the project
