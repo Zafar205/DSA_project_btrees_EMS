@@ -1,4 +1,4 @@
-First install DJANGO by using
+First install DJANGO 
 
 ![image](https://github.com/user-attachments/assets/ab7b47cf-a7c2-44d4-81ac-4edd5f58301b)
 
